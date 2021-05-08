@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black_score">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="BG_Color">#00C853</color>
+    <color name="board_button_color">#950000</color>
+    <color name="button_color">#01579B</color>
+    <color name="button_text_color">#880E4F</color>
+    <color name="splash_BG_color">#0277BD</color>
+    <color name="toolbar_color">#C51162</color>
+    <color name="splash_title_text_color">#283593</color>
+    <color name="board_button_main_color">#FF6D00</color>
+    <color name="board_button_outer_color">#AA00FF</color>
+    <color name="gradient_end_color">#38ef7d</color>
+    <color name="gradient_start_color">#11998e</color>
+    <color name="gradient_middle_color">#86A8E7</color>
+    <color name="button_bg">#000000</color>
+    <color name="fab_icon_tint">#AD1457</color>
+    <color name="splash_button_shadow">#A8A8A8</color>
+    <color name="splash_button_text">#FFFFFF</color>
+    <color name="high_score_text">#FFFFFF</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="edu.bloomu.bmb56279.afinal">
+
+<application
+    android:allowBackup="true"
+    android:icon="@mipmap/snake_launcher_icon"
+    android:label="@string/app_name"
+    android:roundIcon="@mipmap/snake_launcher_icon_round"
+    android:supportsRtl="true"
+    android:theme="@style/Theme.Snake"
+    android:screenOrientation="landscape">
+    <activity
+        android:name=".SplashActivity"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Snake.NoActionBar"
+        android:screenOrientation="portrait">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity android:name=".MainActivity"
+        android:screenOrientation="landscape"
+        android:theme="@style/Theme.Snake.NoActionBar"
+        android:parentActivityName=".SplashActivity"/>
+    <activity android:name=".ListHighScoresActivity"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.Snake.NoActionBar"
+        android:parentActivityName=".SplashActivity"/>
+
+</application>
+
+</manifest>

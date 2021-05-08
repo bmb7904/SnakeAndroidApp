@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Final-Bernardi</string>
+    <string name="title_text">Snake</string>
+    <string name="pause_button_text">Pause</string>
+    <string name="high_scores_button_text">High Scores</string>
+    <string name="score_string">SCORE:  </string>
+    <string name="play_button_text">PLAY</string>
+    <string name="instructions">Eat the fruit! You can control the Snake by clicking
+        above the head in the direction you want him to go! Good luck! </string>
+    <string name="app_title">Snake</string>
+</resources>
